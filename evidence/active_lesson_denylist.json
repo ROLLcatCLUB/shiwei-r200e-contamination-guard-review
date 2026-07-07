@@ -1,0 +1,77 @@
+{
+  "shoe_observation_drawing_expression": {
+    "label": "足下生辉",
+    "deny_terms": [
+      "海洋",
+      "海洋生物",
+      "废旧材料",
+      "拼贴",
+      "拼板",
+      "拼摆",
+      "渐变",
+      "青绿山水",
+      "石青",
+      "石绿"
+    ]
+  },
+  "theme_observation_expression": {
+    "label": "走进海洋世界",
+    "deny_terms": [
+      "鞋底",
+      "鞋面",
+      "鞋带",
+      "足下生辉",
+      "青绿山水",
+      "石青",
+      "石绿"
+    ]
+  },
+  "ink_or_traditional_color_exploration": {
+    "label": "走进青绿山水",
+    "deny_terms": [
+      "鞋底",
+      "鞋面",
+      "鞋带",
+      "海洋生物",
+      "废旧材料",
+      "拼贴",
+      "拼板"
+    ]
+  },
+  "paper_weaving_structure_expression": {
+    "label": "穿穿编编",
+    "deny_terms": [
+      "足下生辉",
+      "鞋底",
+      "海洋",
+      "海洋生物",
+      "青绿山水",
+      "渐变",
+      "废旧材料"
+    ]
+  },
+  "color_gradation_expression": {
+    "label": "渐变的魅力",
+    "deny_terms": [
+      "足下生辉",
+      "鞋底",
+      "鞋面",
+      "鞋带",
+      "青绿山水",
+      "海洋生物",
+      "废旧材料"
+    ]
+  },
+  "material_transformation_expression": {
+    "label": "变废为宝的艺术",
+    "deny_terms": [
+      "足下生辉",
+      "鞋底",
+      "鞋面",
+      "鞋带",
+      "青绿山水",
+      "石青",
+      "石绿"
+    ]
+  }
+}
