@@ -1,0 +1,50 @@
+{
+  "record_id": "p2d_20260707T130733Z_167118fe885a",
+  "created_at": "2026-07-07T13:07:33+00:00",
+  "trigger": "raw_text_upload",
+  "route": "/api/prep-room/uploaded-lesson-entry-preview",
+  "file_name": "??1_????_???_??.docx",
+  "lesson_title": "???????????",
+  "viewmodel_id": "upload_preview_167118fe885a",
+  "model_called": false,
+  "provider_called": false,
+  "template_episode_count": 0,
+  "lesson_focus_id": "material_transformation_expression",
+  "lesson_focus_description": "材料观察、结构转换、创意表达与安全操作",
+  "lesson_focus_matched_keywords": [
+    "材料"
+  ],
+  "main_section_diagnostic": {
+    "basis": [
+      "本课定位为“上传教案单元待确认”中的《???????????》。",
+      "本课的学习重心，是让学生判断材料形态与主题形象之间的关系，再通过剪贴、拼摆或连接形成有意图的作品。",
+      "本课的学习重心，可先顺着学习任务待教师确认组织观察、尝试、创作和交流；具体学情与材料条件仍需教师确认。"
+    ],
+    "student_analysis": [
+      "三年级学生通常能从生活经验、直观图片和具体材料出发，说出看到的形象、颜色或材料特征，但把观察发现、方法选择和作品意图连成一段完整说明还不稳定。",
+      "前置经验上，学生可能已有剪贴、拼摆或材料收集经验；本课要把这些经验转成有意图的美术表达。",
+      "本课难点不只是完成手工作品，而是让学生判断材料形态、连接方式和海洋生物特征之间的关系，避免材料堆砌。",
+      "技法与材料基础上，学生有基础剪贴、拼摆和简单连接经验，但安全切割、结构稳定、材料服务造型意图仍需要教师示范和巡视支架。",
+      "真实学情缺口：本班学生的工具安全习惯、废旧材料准备情况、前序草图完成度和合作制作经验，上传原文未充分提供，需教师确认。"
+    ],
+    "objectives": [
+      "学生能围绕本课任务完成一次有目标的观察、尝试或表达。",
+      "学生能说出自己的学习发现、方法选择或作品特点。",
+      "学生能在交流中用课堂证据说明自己的学习成果。"
+    ],
+    "key_difficult_points": [
+      "重点：围绕本课任务形成清楚的观察、方法尝试和作品表达。",
+      "难点：让学生说清方法选择和学习成果之间的关系。"
+    ]
+  },
+  "parse_quality_flags": [
+    "source_gap_present",
+    "curriculum_standard_candidate_refs_available"
+  ],
+  "source_status_counts": {
+    "source_gap": 1,
+    "r114c_graph_projected": 7
+  },
+  "art_reasoning_candidate_status": "disabled",
+  "note": "This historical record is the concrete evidence for the user-reported contamination: a garbled title/source-gap upload was classified as material_transformation and R200A-generated student_analysis included materials/ocean terms."
+}
